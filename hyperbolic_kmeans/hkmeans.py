@@ -2,7 +2,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import sys
-my_path = '/content/hyperbolic-learning/util' # path to utils.py 
+my_path = '/content/hyperbolic-learning/utils' # path to utils.py 
 sys.path.append(my_path)
 from utils import *
 
